@@ -35,3 +35,4 @@ sesh_logger-*.tar
 npm-debug.log
 /assets/node_modules/
 
+.envrc
