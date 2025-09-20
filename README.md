@@ -1,4 +1,7 @@
 # SeshLogger
+Well, the name says it.
+
+## Instructions
 
 To start your Phoenix server:
 
